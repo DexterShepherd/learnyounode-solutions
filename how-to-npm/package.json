@@ -1,0 +1,20 @@
+{
+  "name": "@dexterjshepherd/how-to-npm",
+  "version": "1.0.1",
+  "description": "learning npm!",
+  "repository": "https://github.com/DexterShepherd/nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "learning",
+    "npm",
+    "is",
+    "the",
+    "best"
+  ],
+  "author": "dexter shepherd",
+  "license": "ISC",
+  "dependencies": {}
+}
